@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="weather_data">weather Data</string>
+    <string name="enter_your_location">Enter Your Location</string>
+    <string name="search">Search</string>
+    <string name="symbol">°</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+</resources>
